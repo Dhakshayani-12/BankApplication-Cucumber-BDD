@@ -89,7 +89,7 @@ Add the following dependencies in **pom.xml**
 
 After adding dependencies → Right click project → Maven → Update Project
 
-Project Structure
+PROJECT STRUCTURE
 
 src/test/java
    runner
@@ -116,6 +116,14 @@ Test Scenarios Automated
 
 5.Edit Customer Details
 
+6.Create New Account
+
+7.Logout from the Application
+
+
+
+EXECUTING:
+
 How to Run the Project
 
 Open the project in Eclipse.
@@ -126,7 +134,3 @@ runner → TestRunner.java
 Right click Run As → TestNG Test
 
 Automation scenarios will start executing.
-6.Create New Account
-
-7.Logout from the Application
-
